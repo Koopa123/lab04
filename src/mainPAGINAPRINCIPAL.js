@@ -25,7 +25,7 @@ const Main = () => {
                         <Carousel.Caption>
                             <h3>{it.name}</h3>
                             <p>{it.description}</p>
-                            <button className="btn btn-primary" >Ver detalle</button>
+                            <button className="btn btn-primary" >Ver detalle.</button>
                         </Carousel.Caption>
                     </Carousel.Item>);
                 })
