@@ -42,7 +42,7 @@ const Main = () => {
                 alt="Categoria 3" class="category-button"></img>
             <img src="https://static9.depositphotos.com/1041273/1193/v/450/depositphotos_11933975-stock-illustration-fruit-vector-set.jpg" alt="Categoria 4" class="category-button"></img>
             <img src="" alt="Categoria 5" class="category-button"></img>
-            <img src="" alt="Categoria 5" class="category-button"></img>
+            <img src="" alt="Categoria 5" class="category-button "></img>
         </div>
         <hr />
 
