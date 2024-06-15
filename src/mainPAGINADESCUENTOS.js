@@ -11,7 +11,7 @@ function MainDescuentos() {
                     <nav aria-label="breadcrumb">
                             <ol className="breadcrumb">
                             <Link to="/principal">
-                                <li className="breadcrumb-item"><a>Home  </a></li>
+                                <li className="breadcrumb-item"><a>Home</a></li>
                             </Link>
                                 <li className="breadcrumb-item active" aria-current="page"> /  Todos los descuentos</li>
                             </ol>
