@@ -47,7 +47,7 @@ const Main = () => {
         <hr />
 
         <div class="popular-products-section text-center">
-            <h2 class="text-center">PRODUCTOS MÁS VENDIDOS</h2>
+            <h2 class="text-center">PRODUCTOS MÁS VENDIDOS ....</h2>
             <div>
                 <div class="product-card">
                     <img src="" alt="Producto 1" class="product-image"></img>
